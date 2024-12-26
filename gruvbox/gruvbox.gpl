@@ -1,0 +1,34 @@
+GIMP Palatte
+Name: gruvbox-dark
+Columns: 26
+
+235 219 178 fg
+040 040 040 bg
+...
+204 036 029 red
+214 093 014 orange
+215 153 033 yellow
+152 151 026 green
+104 157 106 aqua
+069 133 136 blue
+177 098 134 purple
+...
+251 073 052 red_l
+254 128 025 orange_l
+250 189 047 yellow_l
+184 187 038 green_l
+142 192 124 aqua_l
+131 165 152 blue_l
+211 134 155 purple_l
+...
+040 040 040 bg0
+060 056 054 bg1
+080 073 069 bg2
+102 092 084 bg3
+124 111 100 bg4
+168 153 132 fg4
+189 174 147 fg3
+213 196 161 fg2
+235 219 178 fg1
+
+
